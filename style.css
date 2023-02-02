@@ -3,7 +3,10 @@
 }
 
 .colonne {
-    background-color: bisque;
+    background-color: bisque;    
+}
+
+.row {
     height: 300px;
 }
 
