@@ -1,3 +1,13 @@
 #banner {
     background-color: beige;
 }
+
+.colonne {
+    background-color: bisque;
+    height: 300px;
+}
+
+.col {
+    background-color: cadetblue;
+    border: 1px solid gray;
+}
