@@ -6,11 +6,15 @@
     background-color: bisque;    
 }
 
-.row {
-    height: 300px;
+.elemento {
+    background-color: azure;
+    border: 1px solid gray;
 }
 
-.col {
-    background-color: cadetblue;
-    border: 1px solid gray;
+.riga-alta {
+    min-height: 300px;
+}
+
+.active {
+    color: maroon !important;
 }
